@@ -41,7 +41,10 @@ $    ETH_CLIENT: process.env.ETH_CLIENT || "http://localhost:3002",
 $    DLT_TYPE: process.env.DLT_TYPE || "iota", // or eth
 ```
 
+** Video
+https://www.youtube.com/watch?v=ITSxtlCmNhQ
 
+** Slide https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-integrating-fiware-with-blockchaindlts
 
 # Usage
 ```sh
